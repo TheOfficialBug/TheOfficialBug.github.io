@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>the grand finale</title>
-    <link>https://theofficialbug.github.io/</link>
-    <description>Recent content on the grand finale</description>
+    <title>Blogs on the grand finale</title>
+    <link>https://theofficialbug.github.io/blog/</link>
+    <description>Recent content in Blogs on the grand finale</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Thu, 27 Feb 2025 14:42:57 -0600</lastBuildDate>
-    <atom:link href="https://theofficialbug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theofficialbug.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola amigosss</title>
       <link>https://theofficialbug.github.io/blog/hola/</link>
       <pubDate>Thu, 27 Feb 2025 14:42:57 -0600</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>https://theofficialbug.github.io/blog/hola/</guid>
       <description>&lt;h2 id=&#34;second&#34;&gt;second&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;text&lt;/strong&gt; bold&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Final page showdown</title>
-      <link>https://theofficialbug.github.io/page/final/</link>
-      <pubDate>Thu, 27 Feb 2025 14:42:26 -0600</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://theofficialbug.github.io/page/final/</guid>
-      <description>&lt;h1 id=&#34;firsttt&#34;&gt;firsttt&lt;/h1&gt;&#xA;&lt;h2 id=&#34;second&#34;&gt;second&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;text&lt;/strong&gt; bold&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
