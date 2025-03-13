@@ -11,6 +11,13 @@
     <lastBuildDate>Thu, 27 Feb 2025 15:16:58 -0600</lastBuildDate>
     <atom:link href="https://theofficialbug.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://theofficialbug.github.io/page/about/</link>
+      <pubDate>Thu, 27 Feb 2025 15:16:58 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
+      <guid>https://theofficialbug.github.io/page/about/</guid>
+      <description>&lt;p&gt;My name is X from IFLab. We&amp;rsquo;re located at VetMed, ISU&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;take plum # 9 to reach the Lab, and walk in the &lt;strong&gt;cold&lt;/strong&gt;&amp;hellip;&#xA;or else,&#xA;&lt;strong&gt;Buy a CAR&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What else do we need here?&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Function Special Interest Group</title>
       <link>https://theofficialbug.github.io/page/funsig/</link>
       <pubDate>Thu, 27 Feb 2025 15:16:58 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
@@ -44,13 +51,6 @@
       <pubDate>Thu, 27 Feb 2025 14:58:28 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
       <guid>https://theofficialbug.github.io/page/cafa/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;code&gt;The problem:&lt;/code&gt;&lt;/strong&gt; There are many proteins in the databases for which the sequence is known, but the function is not. The gap between what we know and what we do not know is growing. A major challenge in the field of bioinformatics is to predict the function of a protein from its sequence or structure. At the same time, how can we judge how well these function prediction algorithms are performing?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://theofficialbug.github.io/page/about/</link>
-      <pubDate>Thu, 27 Feb 2025 14:58:08 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
-      <guid>https://theofficialbug.github.io/page/about/</guid>
-      <description>&lt;p&gt;My name is X from IFLab. We&amp;rsquo;re located at VetMed, ISU&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;take plum # 9 to reach the Lab, and walk in the &lt;strong&gt;cold&lt;/strong&gt;&amp;hellip;&#xA;or else,&#xA;&lt;strong&gt;Buy a CAR&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What else do we need here?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hola amigosss</title>
