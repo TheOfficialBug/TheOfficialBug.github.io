@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Protein Function Prediction</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://theofficialbug.github.io/post/</link>
     <description>Recent content in Posts on Protein Function Prediction</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>idoerg@gmail.com (IF Lab)</managingEditor>
     <webMaster>idoerg@gmail.com (IF Lab)</webMaster>
     <lastBuildDate>Thu, 27 Feb 2025 15:01:12 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theofficialbug.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Function Special Interest Group</title>
-      <link>http://localhost:1313/post/funsig/</link>
+      <link>https://theofficialbug.github.io/post/funsig/</link>
       <pubDate>Thu, 27 Feb 2025 15:01:12 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
-      <guid>http://localhost:1313/post/funsig/</guid>
+      <guid>https://theofficialbug.github.io/post/funsig/</guid>
       <description>&lt;p&gt;The mission of the Function Special Interest Group (Function-SIG) is to bring together computational biologists, experimental biologists and biocurators who are dealing with the important problem of gene and gene product function prediction, to share ideas and create collaborations. The Function-SIG holds annual meetings alongside the ISMB. Also, we are conducting the multi-year Critical Assessment of protein Function Annotation, or CAFA, experiment.&lt;/p&gt;&#xA;&lt;p&gt;The accurate annotation of protein function is key to understanding life at the molecular level. However, with its inherent difficulty and expense, experimental characterization of function cannot scale up to accommodate the vast amount of sequence data already available. The computational annotation of protein function has therefore emerged as a problem at the forefront of bioinformatics.&#xA;Recently, the availability of genomic-level sequence information for thousands of species, coupled with massive high-throughput experimental data, has created new opportunities as well as challenges for function prediction.&lt;/p&gt;</description>
     </item>
   </channel>
