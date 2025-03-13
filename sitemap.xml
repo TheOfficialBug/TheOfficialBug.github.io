@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theofficialbug.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/page/funsig/</loc>
+    <loc>http://localhost:1313/page/funsig/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-27T15:01:12-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/post/funsig/</loc>
+    <loc>http://localhost:1313/post/funsig/</loc>
     <lastmod>2025-02-27T15:01:12-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/page/publications/</loc>
+    <loc>http://localhost:1313/page/publications/</loc>
     <lastmod>2025-02-27T15:00:16-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/page/meetings/</loc>
+    <loc>http://localhost:1313/page/meetings/</loc>
     <lastmod>2025-02-27T14:59:10-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/page/cafa/</loc>
+    <loc>http://localhost:1313/page/cafa/</loc>
     <lastmod>2025-02-27T14:58:28-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
     <lastmod>2025-02-27T14:58:08-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-02-27T14:42:57-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/blog/hola/</loc>
+    <loc>http://localhost:1313/blog/hola/</loc>
     <lastmod>2025-02-27T14:42:57-06:00</lastmod>
   </url><url>
-    <loc>https://theofficialbug.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://theofficialbug.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
