@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theofficialbug.github.io/page/about/</loc>
-    <lastmod>2025-02-27T15:16:58-06:00</lastmod>
+    <loc>https://theofficialbug.github.io/page/contact/</loc>
+    <lastmod>2025-03-13T15:40:20-05:00</lastmod>
   </url><url>
     <loc>https://theofficialbug.github.io/page/</loc>
-    <lastmod>2025-02-27T15:16:58-06:00</lastmod>
+    <lastmod>2025-03-13T15:40:20-05:00</lastmod>
   </url><url>
     <loc>https://theofficialbug.github.io/</loc>
+    <lastmod>2025-03-13T15:40:20-05:00</lastmod>
+  </url><url>
+    <loc>https://theofficialbug.github.io/page/about/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
     <loc>https://theofficialbug.github.io/page/funsig/</loc>

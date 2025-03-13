@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>idoerg@gmail.com (IF Lab)</managingEditor>
     <webMaster>idoerg@gmail.com (IF Lab)</webMaster>
-    <lastBuildDate>Thu, 27 Feb 2025 15:16:58 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 15:40:20 -0500</lastBuildDate>
     <atom:link href="https://theofficialbug.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://theofficialbug.github.io/page/contact/</link>
+      <pubDate>Thu, 13 Mar 2025 15:40:20 -0500</pubDate><author>idoerg@gmail.com (IF Lab)</author>
+      <guid>https://theofficialbug.github.io/page/contact/</guid>
+      <description>&lt;h3 id=&#34;iddo-friedberg&#34;&gt;&lt;em&gt;Iddo Friedberg&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;2118 Patterson Hall&lt;br&gt;&#xA;College of Veterinary Medicine&lt;br&gt;&#xA;Iowa State University&lt;br&gt;&#xA;Ames, IA, 50011-1134&lt;br&gt;&#xA;USA&lt;/p&gt;&#xA;&lt;p&gt;How to get here&lt;br&gt;&#xA;&lt;a href=&#34;https://vetmed.iastate.edu/about/map-directions&#34;&gt;Map and directions&lt;/a&gt; from the College of Veterinary Medicine.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact-us&#34;&gt;Contact us&lt;/h3&gt;&#xA;&lt;p&gt;email: idoerg ‘at’ iastate ‘dot’ edu&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://theofficialbug.github.io/page/about/</link>
