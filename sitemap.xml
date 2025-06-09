@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/page/contact/</loc>
+    <loc>https://theofficialbug.github.io/page/contact/</loc>
     <lastmod>2025-03-13T15:40:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://theofficialbug.github.io/page/</loc>
     <lastmod>2025-03-13T15:40:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://theofficialbug.github.io/</loc>
     <lastmod>2025-03-13T15:40:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://theofficialbug.github.io/page/about/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/funsig/</loc>
+    <loc>https://theofficialbug.github.io/page/funsig/</loc>
     <lastmod>2025-02-27T15:16:58-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://theofficialbug.github.io/post/</loc>
     <lastmod>2025-02-27T15:01:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/funsig/</loc>
+    <loc>https://theofficialbug.github.io/post/funsig/</loc>
     <lastmod>2025-02-27T15:01:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/publications/</loc>
+    <loc>https://theofficialbug.github.io/page/publications/</loc>
     <lastmod>2025-02-27T15:00:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/meetings/</loc>
+    <loc>https://theofficialbug.github.io/page/meetings/</loc>
     <lastmod>2025-02-27T14:59:10-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/people/</loc>
+    <loc>https://theofficialbug.github.io/page/people/</loc>
     <lastmod>2025-02-27T14:59:10-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/cafa/</loc>
+    <loc>https://theofficialbug.github.io/page/cafa/</loc>
     <lastmod>2025-02-27T14:58:28-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://theofficialbug.github.io/blog/</loc>
     <lastmod>2025-02-27T14:42:57-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hola/</loc>
+    <loc>https://theofficialbug.github.io/blog/hola/</loc>
     <lastmod>2025-02-27T14:42:57-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://theofficialbug.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://theofficialbug.github.io/tags/</loc>
   </url>
 </urlset>

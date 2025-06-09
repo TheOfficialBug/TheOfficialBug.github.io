@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Protein Function Prediction</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://theofficialbug.github.io/blog/</link>
     <description>Recent content in Blogs on Protein Function Prediction</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>idoerg@gmail.com (IF Lab)</managingEditor>
     <webMaster>idoerg@gmail.com (IF Lab)</webMaster>
     <lastBuildDate>Thu, 27 Feb 2025 14:42:57 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theofficialbug.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola amigosss</title>
-      <link>http://localhost:1313/blog/hola/</link>
+      <link>https://theofficialbug.github.io/blog/hola/</link>
       <pubDate>Thu, 27 Feb 2025 14:42:57 -0600</pubDate><author>idoerg@gmail.com (IF Lab)</author>
-      <guid>http://localhost:1313/blog/hola/</guid>
+      <guid>https://theofficialbug.github.io/blog/hola/</guid>
       <description>&lt;h2 id=&#34;second&#34;&gt;second&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;text&lt;/strong&gt; bold&lt;/p&gt;</description>
     </item>
   </channel>
